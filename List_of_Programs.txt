@@ -1,0 +1,35 @@
+1. Calculate the size of various data types in bytes, then print the size in bits.
+
+2. Demonstrate the use of typedef by creating a custom data type that represents complex numbers (float real and float imaginary) and performs basic operations like addition and subtraction.
+
+3. Generate a menu based simple calculator with functions for addition, subtraction, multiplication and division using switch statement.  
+
+4. Print the Fibonacci series up to n terms using loops.
+
+5. Find the union and intersection of two arrays.
+
+6. Write a C program to rearrange an array such that the first element is the
+maximum, the second is the minimum, the third is the second maximum, and so
+on, without using extra space. For example, given [1, 2, 3, 4, 5, 6, 7], the output
+should be [7, 1, 6, 2, 5, 3, 4}.
+
+7. Create magic square (where the sum of elements in every row, column, and both
+diagonals is the same) for a given N x N matrix.
+
+8. Write a program that uses structures to represent a Date and Time, and calculates
+the difference in time between two Date-Time instances.
+
+9. Create a program to demonstrate the concept of call by reference.
+
+10. Implement a C program with a function that finds the Greatest Common Divisor of two numbers using recursion.
+
+11. Write a C program to dynamically allocate memory for an array of integers, then
+sort and print the array using pointer notation.
+
+12.Swap two strings using pointers.
+
+13. Copy the contents of one file to another file.
+
+14. Count the number of lines, words, and characters in a file.
+
+15. Develop a C program to read a file and print only those lines that contain a specific word
