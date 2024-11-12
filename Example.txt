@@ -1,0 +1,7 @@
+This is an example file.
+It contains multiple lines of text.
+Each line has a different number of words and characters.
+
+Let's see how the program counts these lines, words, and characters.
+This line, for instance, has more words than the previous one.
+And this is the last line.

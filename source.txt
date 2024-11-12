@@ -1,0 +1,2 @@
+This is a file
+With some content and It will should be copied
